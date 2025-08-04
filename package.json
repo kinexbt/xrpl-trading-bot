@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/cryptojs": "^3.1.33",
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "cryptojs": "^2.5.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "node-cron": "^4.0.7",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0",
+    "xrpl": "^4.2.5"
+  }
+}

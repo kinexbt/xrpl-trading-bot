@@ -1,0 +1,29 @@
+{
+  "name": "xrpl-sniper-bot",
+  "version": "1.0.0",
+  "description": "XRPL AMM Token Sniper Bot",
+  "main": "sniper-bot.js",
+  "scripts": {
+    "start": "node sniper-bot.js",
+    "dev": "nodemon sniper-bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "xrpl": "^2.14.0",
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "xrpl",
+    "sniper",
+    "bot",
+    "telegram",
+    "amm",
+    "trading"
+  ],
+  "author": "XRPL Sniper Bot",
+  "license": "MIT"
+} 
